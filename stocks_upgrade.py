@@ -33,7 +33,7 @@ sns.heatmap(returns.corr(), annot=True, cmap='coolwarm')
 # In[21]:
 
 
-pip install plotly
+
 
 
 # In[22]:
@@ -149,13 +149,10 @@ fig.show()
 # In[34]:
 
 
-pip install streamlit
+
 
 
 # In[35]:
-
-
-pip install PyPortfolioOpt
 
 
 # In[36]:
