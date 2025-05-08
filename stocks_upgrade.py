@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-pip install yfinance
+
 
 
 # In[ ]:
