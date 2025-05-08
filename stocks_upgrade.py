@@ -5,7 +5,10 @@
 
 
 
-
+pip install yfinance
+pip install streamlit
+pip install plotly
+pip install pypfort
 
 # In[ ]:
 
